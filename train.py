@@ -29,3 +29,6 @@ plt.plot(X, modelo.predict(X))
 plt.xlabel("X")
 plt.ylabel("y")
 plt.title("Regresión Lineal
+
+# crear dataset (...)
+modelo= models AAAAA.LinearRegression()
